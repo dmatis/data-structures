@@ -23,7 +23,6 @@ public class StackTest {
         assertEquals(0, testStack.getItemCount());
         testStack.push("zero");
         assertEquals(1, testStack.getItemCount());
-
     }
 
     @Test
